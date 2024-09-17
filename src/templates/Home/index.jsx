@@ -12,7 +12,7 @@ export class Home extends Component {
       posts: [],
       allPosts: [],
       page: 0,
-      postsPerPage: 12,
+      postsPerPage: 2,
       searchValue: ''
     };
 
